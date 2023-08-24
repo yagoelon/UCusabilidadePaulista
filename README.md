@@ -1,3 +1,3 @@
 # UCusabilidadePaulista
-Arquivo relacionado a matéria de Usabilidade, desenvolvimento web, mobile e jogos
+Arquivo relacionado a materia de Usabilidade, desenvolvimento web, mobile e jogos
 Yago Lopes
